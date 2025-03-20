@@ -6,3 +6,4 @@ pandas==2.0.3
 pandasai
 pip==25.0.1
 google-generativeai
+pyyaml
