@@ -1,0 +1,4 @@
+flask
+pandas
+pandasai
+gunicorn
