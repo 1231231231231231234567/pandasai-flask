@@ -3,5 +3,6 @@ gunicorn==23.0.0
 mysql-connector-python==9.2.0
 numpy==1.23.5
 pandas==2.0.3
+pandasai
 pandas-ai  # Do not specify a version, it will fetch the latest
 pip==25.0.1
