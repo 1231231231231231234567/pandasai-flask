@@ -2,3 +2,4 @@ flask
 pandas
 pandasai
 gunicorn
+mysql-connector-python
